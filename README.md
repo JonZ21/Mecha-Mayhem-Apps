@@ -1,6 +1,6 @@
 # Robotevents-Selenium-Scraper
-Designed to scrape information from robotevents and provide live updates to the livestream
-- Was designed as a prototype to collet live match data from [robotevents](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-VRC-22-7814.html#results-)
+Designed to scrape information from robotevents and provide live updates to a tournament livestream
+- Was designed as a prototype to collect live match data from [robotevents](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-VRC-22-7814.html#results-)
 - Decided to switch to an MQTT server becuase selenium updates too slowly
 - reads skills and match information 
 
