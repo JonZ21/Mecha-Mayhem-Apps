@@ -7,11 +7,13 @@ https://user-images.githubusercontent.com/69182320/212782712-688cc430-4d8a-4423-
 
 
 
-**Battle-bots Overlay (In Progress)**
+**Battle-bots Overlay **
 
 - Created a custom Battle-Bots themed overlay using After Effects that subscribes to an MQTT server and
 displays robot portraits and stats on to the livestream
 - Made livestream transitions and animations using After Effects, Photoshop, OBS, and Premiere Pro
+
+<img width="1280" alt="image" src="https://user-images.githubusercontent.com/69182320/222046646-532dad24-17be-4df1-a133-6a702996d28c.png">
 
 
 https://user-images.githubusercontent.com/69182320/212191493-4cd1b503-cbde-4cec-a8e6-675df65af707.mp4
@@ -35,5 +37,4 @@ https://user-images.githubusercontent.com/69182320/212187794-93f0b4c5-abed-43ef-
 - Discontinued because decided to go with native VEX Scoring app
 
 https://user-images.githubusercontent.com/69182320/212192487-d765c7a4-a10a-4a65-b589-fed43c585d39.mp4
-
 
