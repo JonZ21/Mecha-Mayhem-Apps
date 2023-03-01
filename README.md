@@ -7,7 +7,7 @@ https://user-images.githubusercontent.com/69182320/212782712-688cc430-4d8a-4423-
 
 
 
-**Battle-bots Overlay **
+**Battle-bots Overlay**
 
 - Created a custom Battle-Bots themed overlay using After Effects that subscribes to an MQTT server and
 displays robot portraits and stats on to the livestream
